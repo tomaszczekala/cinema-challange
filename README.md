@@ -1,10 +1,12 @@
 # High Way Cinema
 
-## Description 
-
 Our client has a cinema in Wrocław, Poland. Currently all movies schedule is done by Pen and Paper on big board where there is plan for given time for all movies the cinema shows. Planner Jadwiga need to schedule seans(seans is movie schedule at given time)for best used of the space.
 
+## Board overview
+
 ![Cinema](https://user-images.githubusercontent.com/34231627/150538028-29b1e7b6-f040-48ea-9759-0d7ae0787d44.png)
+
+## Domain requirments
 
 We would like to help Jadwiga to do better job with his weekly task with planning the seans. Idea is to create virtual board that she will be able to add seans to the board.
 
@@ -17,6 +19,9 @@ User Stories:
 
 
 You task is to model the week planning of the seans by Jadwiga.
+
+
+### Challange notes
 
 What we care:
 - Solid domain model
