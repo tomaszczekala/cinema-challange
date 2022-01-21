@@ -20,19 +20,25 @@ User Stories:
 
 You task is to model the week planning of the seans by Jadwiga.
 
+## Assumption
+- Catalog of movies already exists(telling if it need 3d glasses, how long the movie will take)
+- Room availibility is also implemented
 
 ### Challange notes
 
-What we care:
+*Movie Catalog and Room Availibilty is not in scope of this challange but some model will be required to fulfill given task*
+
+What we care for:
 - Solid domain model
 - Quality of tests
 - Clean code
 - Proper module/context modeling
 
-What we don’t care
+What we don’t care for:
 - UI to be implemented
 - Not require to use database
 - All of the cases to be covered.
+
 
 
 
