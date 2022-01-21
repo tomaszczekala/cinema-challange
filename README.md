@@ -4,7 +4,8 @@ Our client has a cinema in Wrocław, Poland. Currently all movies schedule is do
 
 ## Board overview
 
-![Cinema](https://user-images.githubusercontent.com/34231627/150538028-29b1e7b6-f040-48ea-9759-0d7ae0787d44.png)
+![Cinema - page 1 copy](https://user-images.githubusercontent.com/34231627/150541482-0b1e4a66-4298-4d3e-846f-c62ba1c8e37b.png)
+
 
 ## Domain requirments
 
