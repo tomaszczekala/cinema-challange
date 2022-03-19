@@ -31,6 +31,8 @@ You task is to model the week planning of the seans by Jadwiga.
 * Movie Catalog and Room Availibilty is not in scope of this challange but some model will be required to fulfill given task
 * Consider concurrency modification. How to solve problem
 when two Jadwiga's add different movies to same time and same room.
+* If you have question to requirements simply just ask us.
+* If during the assignment you will work on real database and UI you will lose precise time, so we encourage you to not do so.
 
 #### What we care for:
 - Solid domain model
