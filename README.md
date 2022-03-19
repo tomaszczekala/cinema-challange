@@ -27,8 +27,8 @@ You task is to model the week planning of the seans by Jadwiga.
 
 ### Challange notes
 
-*Movie Catalog and Room Availibilty is not in scope of this challange but some model will be required to fulfill given task*
-We would like to consider concurrency modification meaning, how to solve problem
+* Movie Catalog and Room Availibilty is not in scope of this challange but some model will be required to fulfill given task
+* Consider concurrency modification. How to solve problem
 when two Jadwiga's add different movies to same time and same room.
 
 #### What we care for:
